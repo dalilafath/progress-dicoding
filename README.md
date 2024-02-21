@@ -9,3 +9,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progress 100%)
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 * Mengerjakan modul ke-2 yaitu Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 * Menyelesaikan submodull Mengerti Konsep Dasar Pemrograman
+
+21 Februari 2024
+* Mengerjakan dan menyelesaikan modul Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (progress 100%)
+* Memulai modul ke-3 yaitu Belajar Dasar Git dengan GitHub

@@ -12,4 +12,4 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 
 **21 Februari 2024**<br>
 * Mengerjakan dan menyelesaikan modul Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (progress 100%)
-* Memulai modul ke-3 yaitu Belajar Dasar Git dengan GitHub
+* Memulai modul ke-3 yaitu Belajar Dasar Git dengan GitHub (progress 53%)
